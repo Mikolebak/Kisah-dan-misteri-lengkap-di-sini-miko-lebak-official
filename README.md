@@ -5,7 +5,7 @@ Kisah misteri pencarian horor dan mistis sampai perjalanan seru
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Profil Saya</title>
+ 
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -45,10 +45,6 @@ Taglinenya:"
   </main> 
 
   <footer>
-    <p>&copy; 2025 Nama Anda</p>
-  </footer> 
-
-  <script src="script.js"></script>
-</body>
-</html>
+    <p>&copy; 2025 Miko Lebak</p>
+  </footer>
 
